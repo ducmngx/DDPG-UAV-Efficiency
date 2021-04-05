@@ -1,0 +1,7 @@
+README.md
+setup.py
+uav.egg-info/PKG-INFO
+uav.egg-info/SOURCES.txt
+uav.egg-info/dependency_links.txt
+uav.egg-info/requires.txt
+uav.egg-info/top_level.txt
